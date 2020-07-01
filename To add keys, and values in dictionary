@@ -1,0 +1,4 @@
+
+dictt={"naveen":8,"sai":35}
+dictt["balu"]=31
+print(dictt)
